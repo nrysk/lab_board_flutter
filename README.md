@@ -1,16 +1,5 @@
 # lab_board
 
-A new Flutter project.
+研究室周辺に居るメンバーや最寄り駅の時刻表を表示する便利アプリ
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/23f3a9d1-2fd6-49c1-ab7f-723650da3e8e)
